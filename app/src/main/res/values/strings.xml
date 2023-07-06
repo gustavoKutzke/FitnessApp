@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">gymApp</string>
+    <string name="unit">Cm</string>
+    <string name="femaletext">Femenino</string>
+    <string name="age">Idade</string>
+    <string name="startingheight">170</string>
+    <string name="startingweight">55</string>
+    <string name="startingage">22</string>
+    <string name="todo">TODO</string>
+    <string name="height">Altura</string>
+    <string name="calculate_your_imc">Calcule seu IMC</string>
+    <string name="calculate_your_tbm">Calcule seu TBM</string>
+    <string name="weight">Peso</string>
+    <string name="male">Masculino</string>
+    <string name="tmb_response">TMB estimado: %1$.2f kcal</string>
+    <string name="list_response">Resultado: %1$.2f, Data: %2$s</string>
+    <string name="refresh">Atualizar</string>
+    <string name="calories">Calorias</string>
+    <string name="carbohydrate">Carboidrato</string>
+    <string name="fat">Gordura</string>
+    <string name="protein">Proteina</string>
+    <string name="value">Valor\n</string>
+    <string name="goal">Meta</string>
+    <string name="save">Salvar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="saved">Registro Salvo Com Sucesso!</string>
+
+</resources>

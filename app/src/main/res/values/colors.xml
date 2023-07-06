@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="trans">#00000000</color>
+    <color name="halfwarn">#483FC8</color>
+    <color name="warn">#FF1313</color>
+    <color name="main">#1E1D1D</color>
+    <color name="grey_white">#3A3939</color>
+</resources>
